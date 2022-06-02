@@ -1,0 +1,1 @@
+cmd_/home/polete146/Escritorio/SO/S7/S7/deviceDrivers/myDriver2.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/polete146/Escritorio/SO/S7/S7/deviceDrivers/myDriver2.ko /home/polete146/Escritorio/SO/S7/S7/deviceDrivers/myDriver2.o /home/polete146/Escritorio/SO/S7/S7/deviceDrivers/myDriver2.mod.o ;  true
